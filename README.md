@@ -1,4 +1,6 @@
 # rime-middle-chinese
+Forked from polyhedron's repository
+
 中古漢語（切韻音系）全拼及三拼  
 採用polyhedron（古韻）的中古漢語切韻音系拼音。  
 其中，zyenpheng.dict.yaml爲通用的詞庫；  
